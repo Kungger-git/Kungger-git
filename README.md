@@ -12,6 +12,7 @@
 - Soft boy (cringe lol) </li>
 - Student at AMA Computer University
 - Python addict
+- Love to commit a lot
 - Vim n VScode
 
 
