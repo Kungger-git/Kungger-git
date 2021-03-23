@@ -15,6 +15,10 @@
 - 💚 Love to commit a lot
 - 💲 Vim n VScode
 
+<br><br><br>
+<h2 align="center"> My Top Starred Repository </h2>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=kungpaochick&repo=jobs_linkedin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br><br>
 <h2 align="center"> Github stats go brrrr! </h2>
@@ -25,5 +29,5 @@
 <h2 align="center"> My stats are killin me.. Go, Python. Go! </h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kungpaochick&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kungpaochick&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
