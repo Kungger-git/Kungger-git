@@ -14,6 +14,7 @@
 - 🐍 Python addict
 - 💚 Love to commit a lot
 - 💲 Vim n VScode
+- 💿 Full time Linux User
 
 <br><br><br>
 <h2 align="center"> My Top Starred Repository </h2>
