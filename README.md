@@ -18,7 +18,7 @@
 <br><br><br>
 <h2 align="center"> My Top Starred Repository </h2>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=kungpaochick&repo=jobs_linkedin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=kungpaochick&repo=jobs_linkedin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/KungPaoChick/Jobs_LinkedIn)
 
 <br><br><br>
 <h2 align="center"> Github stats go brrrr! </h2>
