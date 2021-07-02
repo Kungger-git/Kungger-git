@@ -17,7 +17,7 @@
 - 💿 Full time Linux User
 
 
-<h2 align="center"> I use Arch BTW! </h2>
+<h2 align="right"> I use Arch BTW! </h2>
 <img align="right" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" />
 <br><br><br>
 
