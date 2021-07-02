@@ -27,7 +27,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kungpaochick&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br><br><br>
-<h2 align="center"> My stats are killin me.. Go, Python. Go! </h2>
+<h2 align="center"> My stats... </h2>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kungpaochick&langs_count=8&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
