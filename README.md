@@ -8,12 +8,12 @@
 *Some not-so interesting facts I have:*
 - 🤖 I love developing automated tasks, whether it is useful or not </li>
 - 📚 Usually watch anime and read manga from time to time </li>
-- 😬 Soft boy (cringe lol) </li>
 - 🎓 Student at AMA Computer University
 - 🐍 Python addict
 - 💚 Love to commit a lot
 - 💲 Vim n VScode
 - 💿 Full time Linux User
+- 💁‍♂️ Creator of <b><a href="https://github.com/axyl-os">Axyl OS</a></b>
 
 <br><br><br>
 <h2 align="center"> I use Arch BTW! </h2>
