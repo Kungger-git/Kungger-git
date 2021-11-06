@@ -15,6 +15,10 @@
 - 💿 Full time Linux User
 - 💁‍♂️ Creator of <b><a href="https://github.com/axyl-os">Axyl OS</a></b>
 
+<p align=center>
+  <img src="https://komarev.com/ghpvc/?username=Kungger-git&color=156CAC&style=flat-square">
+</p>
+
 <br><br><br>
 <h2 align="center"> I use Arch BTW! </h2>
 <p align="center">
